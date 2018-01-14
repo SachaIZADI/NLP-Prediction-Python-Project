@@ -10,4 +10,4 @@ However we believe that the only relevant metric that should be use is much more
 
 
 
-This project was realised by [Valentin Lapparov](https://github.com/vlapparov) and [I](https://www.linkedin.com/in/sacha-izadi/).
+This project was realised by [Valentin Lapparov](https://github.com/vlapparov) and [Sacha IZADI](https://www.linkedin.com/in/sacha-izadi/).
