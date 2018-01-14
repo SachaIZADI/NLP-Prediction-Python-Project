@@ -1,6 +1,6 @@
 # NLP-Prediction-Python-Project
 
-In this project we analysed thoroughly different variables influencing prices on Mercari classified marketplace and we built pricing models accordingly. One of our main challenges was to extract relevant insights from the item descriptions (unstructured textual data). We tackled it by adopting classical NLP approaches such as the bag-of-words model (using TFIDF) and downsizing dimensionality of the dataset (thanks to SVD and t-SNE).
+In this project we analyse thoroughly different variables influencing the prices on Mercari classified marketplace and we build pricing models accordingly. One of our main challenges was to extract relevant insights from the item descriptions (unstructured textual data). We tackled it by adopting classical NLP approaches such as the bag-of-words model (using TFIDF) and downsizing dimensionality of the dataset (thanks to SVD and t-SNE).
 
 We developped several pricing models based on the following algorithms: linear regression, multi-layer perceptron, random forest and k-nearest neighbors.
 
