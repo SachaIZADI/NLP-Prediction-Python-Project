@@ -1,5 +1,9 @@
 # NLP-Prediction-Python-Project
 
-@Valentin : la data cleanée est [ici](https://drive.google.com/file/d/18XGCiNUZHJsgWhUjcniCifSD5vqJ1Jeh/view?usp=sharing)
+In this project we analysed thoroughly different variables influencing prices on Mercari classified marketplace and we built pricing models accordingly. One of our main challenges was to extract relevant insights from the item descriptions (unstructured textual data). We tackled it by adopting classical NLP approaches such as the bag-of-words model (using TFIDF) and downsizing dimensionality of the dataset (thanks to SVD and t-SNE).
 
-@Valentin : le test & train avec TFIDF + SVD est [ici](https://drive.google.com/file/d/15p2CR9yz6Qpf-yEwNCrbhvB3fQgAj96c/view?usp=sharing)
+We developped several pricing models based on the following algorithms: linear regression, multi-layer perceptron, random forest and k-nearest neighbors.
+
+At the end of the day, a filtering of the dataset coupled with a k-nearest neighbors model proved to give quite good results. However we believe that the only relevant metric that should be use is much more qualitative than a $L_2$ error. Do buyers and vendors find those predicted prices relevant regarding the intrinsic value they assign to the items sold.
+
+This project was realised by [Valentin Lapparov](https://github.com/vlapparov) and [I](https://www.linkedin.com/in/sacha-izadi/).
