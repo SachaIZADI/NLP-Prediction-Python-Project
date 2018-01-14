@@ -4,6 +4,10 @@ In this project we analysed thoroughly different variables influencing prices on
 
 We developped several pricing models based on the following algorithms: linear regression, multi-layer perceptron, random forest and k-nearest neighbors.
 
-At the end of the day, a filtering of the dataset coupled with a k-nearest neighbors model proved to give quite good results. However we believe that the only relevant metric that should be use is much more qualitative than a $L_2$ error. Do buyers and vendors find those predicted prices relevant regarding the intrinsic value they assign to the items sold.
+At the end of the day, a relevant filtering of the dataset coupled with a k-nearest neighbors model proved to give quite good results. 
+
+However we believe that the only relevant metric that should be use is much more qualitative than a L2 error. Do buyers and vendors find those predicted prices relevant regarding the intrinsic value they assign to the items sold?
+
+
 
 This project was realised by [Valentin Lapparov](https://github.com/vlapparov) and [I](https://www.linkedin.com/in/sacha-izadi/).
