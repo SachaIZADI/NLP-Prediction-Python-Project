@@ -14,7 +14,14 @@ However we believe that the only relevant metric that should be use is much more
 This project was realised by [Valentin Lapparov](https://github.com/vlapparov) and [Sacha IZADI](https://www.linkedin.com/in/sacha-izadi/).
 
 
-Here are some of the visualizations we developped :
+Here are some of the exploratory visualizations we produced :
 
-
+<div>
+  <img src="Img/Viz1.png", height=250>
+  <img src="Img/Viz2.png", height=250>
+</div>
+<div>
+  <img src="Img/Viz3.png", height=250>
+  <img src="Img/Viz4.png", height=250>
+</div>
 
